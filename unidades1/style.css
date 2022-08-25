@@ -1,4 +1,4 @@
-a {
+/* a {
   text-decoration: none;
   color: white;
   background: darkblue;
@@ -14,8 +14,29 @@ p {
   padding: 16px 32px;
 }
 
+html{
+  font-size: 32px;
+}
+
 
 .rem {
   font-size: 1.5rem;
   padding: 1rem 2rem;
+} */
+
+.px {
+  font-size: 32px;
 }
+
+html {
+  font-size: 200%;
+}
+
+.em {
+  font-size: 2em;
+}
+
+.rem {
+  font-size: 2rem;
+}
+
